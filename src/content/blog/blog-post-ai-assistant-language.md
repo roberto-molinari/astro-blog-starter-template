@@ -40,7 +40,7 @@ latter case.
 Here's a snippet of a conversation with GitHub Copilot (which had
 recently suggested some code to help answer a question I had)
 
-![](media/image.png){width="6.5in" height="1.40625in"}
+![](media/blog-post-ai-assistant-language-image-1.png)
 
 There's really no need for commentary on the quality of my question. If
 a human responded this way, I would think they are trying to butter me
