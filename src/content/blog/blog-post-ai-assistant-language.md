@@ -2,10 +2,7 @@
 title: "The Language of AI Assistants"
 description: "Early observations about the language and tone AI assistants use when communicating with the user"
 pubDate: "March 31, 2026"
-heroImage: "/blog-placeholder-3.jpg"
 ---
-
-# The Language of AI Assistants
 
 Having spent some time over the last few weeks playing with AI
 assistants, it\'s interesting to note the language tendencies of the
@@ -14,7 +11,7 @@ Microsoft Office (primarily in Word). Prior to that, I had spent some
 time using Claude code and I believe these observations are not unique
 to the Microsoft assistants
 
-## Point 1 -- they speak with confidence when asked to solve
+### Point 1 -- they speak with confidence when asked to solve
 
 Asking an AI to write the framing for a document or help plan a coding
 project usually starts with an abundance of confidence in the response.
@@ -35,12 +32,12 @@ with "absolutely". In the former case, if the mechanic cannot address
 the problem, many people are more likely to be forgiving than in the
 latter case.
 
-## Point 2 -- they speak with reverence when questioned
+### Point 2 -- they speak with reverence when questioned
 
 Here's a snippet of a conversation with GitHub Copilot (which had
 recently suggested some code to help answer a question I had)
 
-![](/public/media/blog-post-ai-assistant-language-image-1.png)
+![](media/blog-post-ai-assistant-language-image-1.png)
 
 There's really no need for commentary on the quality of my question. If
 a human responded this way, I would think they are trying to butter me
@@ -50,7 +47,7 @@ wrong. The frequency at which chatbots speak positively about the user
 can (and did, at least for me at times) causes the user to think they
 are more right / correct than they are.
 
-Point 3 -- they are wordy
+### Point 3 -- they are wordy
 
 Ask a simple question and you get a very lengthy answer, which may be
 necessary at times but certainly not at the rate that these assistants
