@@ -1,4 +1,9 @@
-Copilot, AI and integration
+---
+title: "Copilot, AI and integration"
+description: "Thoughts on where the seams show between AI and the apps they support"
+pubDate: "April 5, 2026"
+---
+
 
 There's understandably a lot of conversation and focus on AI technical
 capabilities (token counts, model sizes, weights, etc.). These aspects
