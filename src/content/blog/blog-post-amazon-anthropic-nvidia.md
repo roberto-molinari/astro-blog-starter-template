@@ -36,9 +36,7 @@ use an analogy, let\'s look at the journey from the start of building AI
 chips to one of two possible endings (success or not success, I leave
 failure out because that's probably too definitive of a term to use)
 
-![](/media/blog-post-amazon-anthropic-nvidia-image-1.png){width="4.166666666666667in"
-height="3.2051279527559053in"}
-
+![](/media/blog-post-amazon-anthropic-nvidia-image-1.png)
 The diagram shows the journey as a straight line, which is never the
 case. The journey is really a series of steps, where each step builds
 upon the last, and invariably wavers off the straight line. In a
@@ -46,8 +44,7 @@ competitive situation, the amount of variance from the straight-line
 needs to be minimized to get to success faster than others. So, a path
 like this
 
-![](/media/blog-post-amazon-anthropic-nvidia-image-2.png){width="4.541666666666667in"
-height="3.3116316710411198in"}
+![](/media/blog-post-amazon-anthropic-nvidia-image-2.png)
 
 is closer to reality. That means that each arrow is an opportunity to
 learn and course correctly as needed. To make the most out of those
