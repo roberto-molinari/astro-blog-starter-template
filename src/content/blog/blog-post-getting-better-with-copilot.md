@@ -1,3 +1,9 @@
+---
+title: "Getting Better with Coplilot"
+description: "Latest experience with Copilot and how I'm learning to use it more effectively"
+pubDate: "May 1031, 2026"
+---
+
 This last week I felt like I finally started getting into a reasonable
 groove/rhythm with AI assisted coding in VS Code. For context, I've been
 playing around with Github Copilot in VS Code to build a sports database
