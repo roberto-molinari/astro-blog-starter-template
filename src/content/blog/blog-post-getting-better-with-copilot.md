@@ -1,7 +1,7 @@
 ---
 title: "Getting Better with Coplilot"
 description: "Latest experience with Copilot and how I'm learning to use it more effectively"
-pubDate: "May 1031, 2026"
+pubDate: "May 10, 2026"
 ---
 
 This last week I felt like I finally started getting into a reasonable
